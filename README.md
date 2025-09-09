@@ -41,3 +41,8 @@ Example guidance: Build a sense of paranoia. The computer system slows down. Acc
 Prompt: The protagonist stays late at the office, determined to get answers. As they overlay all the patterns — modern and historic — the shapes begin to form something monstrous when viewed at full scale. Just as they realize this, the map glitches — and something moves. A ripple across the topography. Something beneath.
 
 Example guidance: End on a visceral image. Something terrible is buried — and the map is the only thing that can see it. And it's starting to look back.
+
+
+
+Chapter 2: “Contours of the Unknown”
+Jordan Vega’s obsession deepens as he overlays the shifting anomalies across historic and live GIS data, uncovering a growing network of identical landforms spreading like roots beneath the earth. Each site is a dead zone—where drones crash, signals vanish, and surveyors go missing—officially dismissed as coincidence or hardware failure. Sealing himself in his office, Jordan builds a wall of maps, tracing the monstrous shape forming beneath the surface, its outline disturbingly organic. Then, as he models elevation changes in 3D, the impossible happens: the terrain begins to move in real-time—slowly rising and falling—revealing a pulse in the landscape. The maps aren’t just showing something alive. They’re listening to it.

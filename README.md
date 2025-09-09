@@ -33,7 +33,7 @@
 ##  The Final Boss -- Pull requests
 - [ ] Make a pull request to merge your content into the main book. 
 - [ ] switch to main branch
-- [] ``` git pull ``` to see the book
+- [ ] ``` git pull ``` to see the book
 
 
 # Actions

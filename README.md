@@ -5,4 +5,4 @@ gss_hackathon_test
 
 # Actions
 
-- 
+- write one prompt to create all chapters/ lay out story and break out into chapters 

@@ -10,4 +10,4 @@ gss_hackathon_test
 
 # prompt 
 
-Monster Horro book, with for chapters about a GIS person saving the world with cartography
+Monster Horror book, with for chapters about a GIS person saving the world with cartography

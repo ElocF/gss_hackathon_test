@@ -1,3 +1,11 @@
+## Will and Cole Setup 
+- [ ] Create repo
+- [ ] Create project team for quickly managing collaborators
+- [ ] create readme with instructions, workflow, and chapter index
+- [ ] create chapters chapter1.md, chapter2.md, chapter3.md, chapter4.md
+- [ ] lock main branch to allow changes by pull request only.
+- [ ] identify some leads for chapters
+
 # This is a exercise to practice one method of development using git (Feature Branch workflow)
 
 1. clone
@@ -6,12 +14,21 @@
 4. commit
 5. Pull Request merge
 
-## Will and Cole Setup 
-- [ ] Create repo
-- [ ] create readme with instructions and chapter index
-- [ ] create chapters chapter1.md, chapter2.md, chapter3.md, chapter4.md
-- [ ] add users to the repo as contributors
-- [ ] lock main branch to allow changes by pull request only.
+## Core GitHub Skills Practiced in this exercise
+1. **Cloning a Repository**
+2. **Creating Branches**
+3. **Branch Naming Conventions**
+4. **Committing Changes**
+5. **Pushing Changes**
+6. **Pull Requests (PRs)**
+7. **Code Review**
+8. **Merge Conflict Resolution**
+9. **Branch Merging**
+10. **Collaboration Workflow**
+11. **File Organization**
+12. **GitHub UI Navigation**
+
+
 
 ## The Demo -- Reveal the AI prompt
 - [ ] create branch to add the chapter or book prompt

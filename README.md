@@ -58,7 +58,7 @@
 - write one prompt to create all chapters/ lay out story and break out into chapters 
 
 
-# AI Prompt
+# AI Prompt - use this to reduce story divergance
 Use the following prompt to create the story using your favorite AI. Capture your chapter from the output. 
 ```
 Create a short Monster Horror story about a hero who saves the world with cartography. There should be four chapters. The story needs to have a staring a character named Green Chipchenko. No other characters with names survive longer than a chapter. Provide a title for each chapter. Content should follow this outline
